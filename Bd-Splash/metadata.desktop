@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Bd-Splashscreen
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Bd-Splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=c4mperpr0
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=Bd-Splash
+X-KDE-PluginInfo-Version=1.0
+X-Plasma-MainScript=defaults
+
